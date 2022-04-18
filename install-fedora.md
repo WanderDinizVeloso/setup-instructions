@@ -30,7 +30,7 @@ Na opção `Mount Point` selecione `/`, digite o espaço desejado da partição 
 
 #### Criando Partição `/ boot`
 
-Após adicionar a partição root, repita o processo criando o `Mount Point '/boot'`. Clique novamente em `+` para acicionar uma partição com `Mount Point '/boot'` insira o tamanho de `1 GiB`.
+Após adicionar a partição root, repita o processo criando o `Mount Point '/boot'`. Clique novamente em `+` para adicionar uma partição com `Mount Point '/boot'` insira o tamanho de `1 GiB`.
 
 ---
 
